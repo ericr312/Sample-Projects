@@ -5,7 +5,7 @@ import alpaca_trade_api as tradeapi
 
 
 # Matringale strategy - risky
-# day trading for s&p500
+# day trading for IVV S&P500
 
 class Martingale(object):
     def __init__(self):
